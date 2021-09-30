@@ -1,6 +1,10 @@
 # Giveaway NFT bot
 
-Bot that participates in NFT giveaways on Reddit on the specified subs
+Bot that automatically signs up to NFT giveaways on Reddit!
+
+<p align="center">
+<img width="1277" alt="Screen Shot 2021-09-22 at 17 52 12" src="https://user-images.githubusercontent.com/25267873/135364902-7b07959c-f439-476f-a583-f75ad6e5b493.png">
+</p>
 
 ## Getting started
 
@@ -59,10 +63,6 @@ I just got my hands on **Goku eating a Burger** from **CryptoCartoonEaters** NFT
 <p align="center">
   <img src="https://user-images.githubusercontent.com/25267873/135364920-1defbdcb-0664-4715-96a3-ffcb36f26792.png" width="300"/>
 </p>
-
-This is the collection in question.
-
-<img width="1277" alt="Screen Shot 2021-09-22 at 17 52 12" src="https://user-images.githubusercontent.com/25267873/135364902-7b07959c-f439-476f-a583-f75ad6e5b493.png">
 
 Feel free to thank me by sending me some nice NFT artwork to my Opensea wallet: 0x5c747aa296f8621a572881fe6386b6739c1b80f8
 
