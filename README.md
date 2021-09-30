@@ -71,3 +71,9 @@ Feel free to thank me by sending me some nice NFT artwork to my Opensea wallet: 
 Although this is an interesting bot application you should note **Reddit rules**:
 
 "_Votes must be cast by humans. That is, API clients proxying a human’s action one-for-one are OK, but bots deciding how to vote on content or amplifying a human’s vote are not. See the reddit rules for more details on what constitutes vote cheating._"
+
+## Future improvements
+
+Some future possible improvements could be to be even more automated. For example, by connecting your twitter/insta account and either retweet or like a post based on what the OP requires to participate on the giveaway.
+
+If you are interested in improving the bot, feel free to contribute. You may use the jupyter notebook for faster development.
